@@ -1,4 +1,4 @@
-##Brief
+## Brief
 
 A backend built with Node.js, Express.js and Firebase
 
@@ -6,7 +6,7 @@ A backend built with Node.js, Express.js and Firebase
 Express: A fast, unopinionated, and minimalist web framework for Node.js, which simplifies building web applications and APIs.
 Firebase: A comprehensive app development platform by Google, offering a wide range of services, including real-time databases, authentication, cloud functions, and more.
 
-##Features
+## Features
 
 - Real-time data synchronization with Firebase Realtime Database.
 - API endpoints and routes using Express.
@@ -27,12 +27,12 @@ Install the required dependencies using npm.
 npm install
 ```
 
-###Configure Firebase
+### Configure Firebase
 Set up a Firebase project on the Firebase Console.
 Obtain your Firebase configuration settings.
 Replace the configuration in the project where Firebase is initialized.
 
-##Deploy
+## Deploy
 
 ```shell
 firebase deploy

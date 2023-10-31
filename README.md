@@ -39,3 +39,8 @@ firebase deploy
 ```
 
 The application should now be deployed to firebase.
+
+
+## Database structure
+<img width="1274" alt="Screenshot 2023-11-01 at 2 33 42 AM" src="https://github.com/martins5225/auth-server/assets/73473904/4e71563f-9dce-4e91-9486-0e34e9872c28">
+
